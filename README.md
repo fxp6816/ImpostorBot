@@ -14,6 +14,6 @@ Discord bot that handles the additional use of Discord for the purpose of playin
       - unmute: Unmutes the alive players in the voice channel, as well as outputs the list of Alive and Dead people.
       - iDied: This command is inputed by the user that has been killed, this will move them to the Dead people list.
       
-@Author: Francisco Paliouras Delgado [GitHub Pages](https://github.com/fxp6816)
+@Author: Francisco Paliouras Delgado [Fxp6816](https://github.com/fxp6816)
 
 
