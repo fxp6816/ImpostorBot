@@ -1,8 +1,10 @@
 # ImpostorBot
 Discord bot that handles the additional use of Discord for the purpose of playing Among Us.
 
-##Usage
-  Link to invite ImpostorBot : https://discord.com/api/oauth2/authorize?client_id=766014281241854033&permissions=0&scope=bot
+## Usage
+  Link to invite ImpostorBot : [INVITE LINK](https://discord.com/api/oauth2/authorize?client_id=766014281241854033&permissions=0&scope=bot)
+  
+  
   
   Prefix: '/'.
   
@@ -12,6 +14,6 @@ Discord bot that handles the additional use of Discord for the purpose of playin
       - unmute: Unmutes the alive players in the voice channel, as well as outputs the list of Alive and Dead people.
       - iDied: This command is inputed by the user that has been killed, this will move them to the Dead people list.
       
-@Author: Francisco Paliouras Delgado 
+@Author: Francisco Paliouras Delgado [GitHub Pages](https://github.com/fxp6816)
 
 
