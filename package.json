@@ -1,0 +1,17 @@
+{
+  "name": "amoungusbot",
+  "version": "1.0.0",
+  "description": "Discord bot to play among us in the channel",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node ./src/main.js"
+    
+  },
+  "author": "Francisco Paliouras",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0"
+  }
+}
