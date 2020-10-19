@@ -6,9 +6,9 @@ Discord bot that handles the additional use of Discord for the purpose of playin
   
   
   
-  Prefix: '/'.
+  **Prefix: '/'.**
   
-  Commands: 
+  ###Commands:
       - help : Shows all other commands and what they do.
       - startRound: Mutes everyone in the voice channel you are in to start the round.
       - unmute: Unmutes the alive players in the voice channel, as well as outputs the list of Alive and Dead people.
